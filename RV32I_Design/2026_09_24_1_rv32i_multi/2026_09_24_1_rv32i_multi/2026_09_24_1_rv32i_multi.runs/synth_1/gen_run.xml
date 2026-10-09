@@ -71,7 +71,7 @@
   </FileSet>
   <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
     <Filter Type="Constrs"/>
-    <File Path="$PPRDIR/../Basys-3-Master.xdc">
+    <File Path="$PPRDIR/../../../../AI_System_Semiconductor_Design/Ch_3_CPU_Design_Project_140_hours/2026_09_24_1_rv32i_multi/Basys-3-Master.xdc">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
